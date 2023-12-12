@@ -9,6 +9,7 @@ from typing import List
 from tempfile import mkdtemp
 from dataclasses import dataclass, field, asdict
 from pathlib import Path
+from operator import itemgetter
 
 from git import Repo
 
@@ -48,7 +49,7 @@ class Package:
             ],
         )
 
-        for v in versions:
+        for v in sorted(versions):
             pv = PackageVersion(v, f"{self.source}/{v}@{branch}")
             self.versions.append(pv)
 
@@ -61,13 +62,13 @@ def main(index: str) -> int:
 
     result = list()
 
-    for package in yaml_data["packages"]:
+    for package in sorted(yaml_data["packages"], key=itemgetter("name")):
         p = Package(**package)
         p.analyze()
         result.append(asdict(p))
 
     with open("_gen.json", "wt") as f:
-        json.dump(result, f)
+        f.write(json.dumps(result, indent=2))
 
     return 0
 
