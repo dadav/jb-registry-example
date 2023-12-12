@@ -1,0 +1,8 @@
+---
+packages:
+  - name: argo-cd-libsonnet
+    description: argo-cd jsonnet library
+    source: https://github.com/jsonnet-libs/argo-cd-libsonnet
+  - name: keda-libsonnet
+    description: keda jsonnet library
+    source: https://github.com/jsonnet-libs/keda-libsonnet
