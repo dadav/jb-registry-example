@@ -3,7 +3,6 @@
     "name": "actions-runner-controller-libsonnet",
     "description": "actions-runner-controller jsonnet library",
     "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.26",
@@ -27,7 +26,6 @@
     "name": "argo-cd-libsonnet",
     "description": "argo-cd jsonnet library",
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "2.2",
@@ -59,7 +57,6 @@
     "name": "argo-rollouts-libsonnet",
     "description": "argo-rollouts jsonnet library",
     "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.6",
@@ -71,7 +68,6 @@
     "name": "argo-workflows-libsonnet",
     "description": "argo-workflows jsonnet library",
     "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "3.1",
@@ -95,7 +91,6 @@
     "name": "aws-load-balancer-controller-libsonnet",
     "description": "aws-load-balancer-controller jsonnet library",
     "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "2.2",
@@ -123,7 +118,6 @@
     "name": "cert-manager-libsonnet",
     "description": "cert-manager jsonnet library",
     "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.10",
@@ -175,7 +169,6 @@
     "name": "cloudnative-pg-libsonnet",
     "description": "cloudnative-pg jsonnet library",
     "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.18.5",
@@ -199,7 +192,6 @@
     "name": "cnrm-libsonnet",
     "description": "cnrm jsonnet library",
     "source": "https://github.com/jsonnet-libs/cnrm-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.74",
@@ -223,7 +215,6 @@
     "name": "crossplane-libsonnet-crossplane",
     "description": "crossplane jsonnet library (crossplane)",
     "source": "https://github.com/jsonnet-libs/crossplane-libsonnet",
-    "_package_dir": "crossplane",
     "versions": [
       {
         "version": "1.12",
@@ -239,7 +230,6 @@
     "name": "crossplane-libsonnet-provider-aws",
     "description": "crossplane jsonnet library (provider-aws)",
     "source": "https://github.com/jsonnet-libs/crossplane-libsonnet",
-    "_package_dir": "provider-aws",
     "versions": [
       {
         "version": "0.36",
@@ -251,7 +241,6 @@
     "name": "crossplane-libsonnet-provider-azure",
     "description": "crossplane jsonnet library (provider-azure)",
     "source": "https://github.com/jsonnet-libs/crossplane-libsonnet",
-    "_package_dir": "provider-azure",
     "versions": [
       {
         "version": "0.20",
@@ -263,7 +252,6 @@
     "name": "eck-operator-libsonnet",
     "description": "eck-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.9",
@@ -315,7 +303,6 @@
     "name": "edp-keycloak-operator-libsonnet",
     "description": "edp-keycloak-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.15.0",
@@ -335,7 +322,6 @@
     "name": "external-secrets-libsonnet",
     "description": "external-secrets jsonnet library",
     "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.4",
@@ -367,7 +353,6 @@
     "name": "fluxcd-libsonnet",
     "description": "fluxcd jsonnet library",
     "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.30.2",
@@ -419,7 +404,6 @@
     "name": "grafana-operator-libsonnet",
     "description": "grafana-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "4.1",
@@ -475,7 +459,6 @@
     "name": "istio-libsonnet",
     "description": "istio jsonnet library",
     "source": "https://github.com/jsonnet-libs/istio-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.17",
@@ -499,7 +482,6 @@
     "name": "k8s-libsonnet",
     "description": "k8s jsonnet library",
     "source": "https://github.com/jsonnet-libs/k8s-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.20",
@@ -543,7 +525,6 @@
     "name": "keda-libsonnet",
     "description": "keda jsonnet library",
     "source": "https://github.com/jsonnet-libs/keda-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "2.10",
@@ -579,7 +560,6 @@
     "name": "kube-prometheus-libsonnet",
     "description": "kube-prometheus jsonnet library",
     "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.10",
@@ -611,7 +591,6 @@
     "name": "openshift-libsonnet",
     "description": "openshift jsonnet library",
     "source": "https://github.com/jsonnet-libs/openshift-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "3.11",
@@ -647,7 +626,6 @@
     "name": "prometheus-operator-libsonnet",
     "description": "prometheus-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.57",
@@ -703,7 +681,6 @@
     "name": "secrets-store-csi-driver-libsonnet",
     "description": "secrets-store-csi-driver jsonnet library",
     "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "1.2",
@@ -719,7 +696,6 @@
     "name": "securecodebox-libsonnet",
     "description": "securecodebox jsonnet library",
     "source": "https://github.com/jsonnet-libs/securecodebox-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "3.14",
@@ -739,7 +715,6 @@
     "name": "strimzi-libsonnet",
     "description": "strimzi jsonnet library",
     "source": "https://github.com/jsonnet-libs/strimzi-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.23",
@@ -763,7 +738,6 @@
     "name": "teleport-operator-libsonnet",
     "description": "teleport-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "12.2",
@@ -791,7 +765,6 @@
     "name": "traefik-libsonnet",
     "description": "traefik jsonnet library",
     "source": "https://github.com/jsonnet-libs/traefik-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "2.10.0",
@@ -823,7 +796,6 @@
     "name": "vault-secrets-operator-libsonnet",
     "description": "vault-secrets-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.1.0",
@@ -843,7 +815,6 @@
     "name": "vertical-pod-autoscaler-libsonnet",
     "description": "vertical-pod-autoscaler jsonnet library",
     "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet",
-    "_package_dir": ".",
     "versions": [
       {
         "version": "0.10",
