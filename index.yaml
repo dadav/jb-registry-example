@@ -18,3 +18,66 @@ packages:
   - name: k8s-libsonnet
     description: k8s jsonnet library
     source: https://github.com/jsonnet-libs/k8s-libsonnet
+  - name: grafana-operator-libsonnet
+    description: grafana-operator jsonnet library
+    source: https://github.com/jsonnet-libs/grafana-operator-libsonnet
+  - name: cert-manager-libsonnet
+    description: cert-manager jsonnet library
+    source: https://github.com/jsonnet-libs/cert-manager-libsonnet
+  - name: cloudnative-pg-libsonnet
+    description: cloudnative-pg jsonnet library
+    source: https://github.com/jsonnet-libs/cloudnative-pg-libsonnet
+  - name: traefik-libsonnet
+    description: traefik jsonnet library
+    source: https://github.com/jsonnet-libs/traefik-libsonnet
+  - name: crossplane-libsonnet
+    description: crossplane jsonnet library
+    source: https://github.com/jsonnet-libs/crossplane-libsonnet
+  - name: prometheus-operator-libsonnet
+    description: prometheus-operator jsonnet library
+    source: https://github.com/jsonnet-libs/prometheus-operator-libsonnet
+  - name: eck-operator-libsonnet
+    description: eck-operator jsonnet library
+    source: https://github.com/jsonnet-libs/eck-operator-libsonnet
+  - name: edp-keycloak-operator-libsonnet
+    description: edp-keycloak-operator jsonnet library
+    source: https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet
+  - name: kube-prometheus-libsonnet
+    description: kube-prometheus jsonnet library
+    source: https://github.com/jsonnet-libs/kube-prometheus-libsonnet
+  - name: external-secrets-libsonnet
+    description: external-secrets jsonnet library
+    source: https://github.com/jsonnet-libs/external-secrets-libsonnet
+  - name: argo-rollouts-libsonnet
+    description: argo-rollouts jsonnet library
+    source: https://github.com/jsonnet-libs/argo-rollouts-libsonnet
+  - name: actions-runner-controller-libsonnet
+    description: actions-runner-controller jsonnet library
+    source: https://github.com/jsonnet-libs/actions-runner-controller-libsonnet
+  - name: aws-load-balancer-controller-libsonnet
+    description: aws-load-balancer-controller jsonnet library
+    source: https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet
+  - name: secrets-store-csi-driver-libsonnet
+    description: secrets-store-csi-driver jsonnet library
+    source: https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet
+  - name: fluxcd-libsonnet
+    description: fluxcd jsonnet library
+    source: https://github.com/jsonnet-libs/fluxcd-libsonnet
+  - name: openshift-libsonnet
+    description: openshift jsonnet library
+    source: https://github.com/jsonnet-libs/openshift-libsonnet
+  - name: cnrm-libsonnet
+    description: cnrm jsonnet library
+    source: https://github.com/jsonnet-libs/cnrm-libsonnet
+  - name: strimzi-libsonnet
+    description: strimzi jsonnet library
+    source: https://github.com/jsonnet-libs/strimzi-libsonnet
+  - name: argo-workflows-libsonnet
+    description: argo-workflows jsonnet library
+    source: https://github.com/jsonnet-libs/argo-workflows-libsonnet
+  - name: securecodebox-libsonnet
+    description: securecodebox jsonnet library
+    source: https://github.com/jsonnet-libs/securecodebox-libsonnet
+  - name: vertical-pod-autoscaler-libsonnet
+    description: vertical-pod-autoscaler jsonnet library
+    source: https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet
