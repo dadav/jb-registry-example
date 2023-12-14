@@ -5,8 +5,8 @@ import sys
 import logging
 import yaml
 import json
+import tempfile
 from typing import List
-from tempfile import mkdtemp
 from dataclasses import dataclass, field, asdict
 from pathlib import Path
 from operator import itemgetter
@@ -39,10 +39,7 @@ class Package:
     package_dir: str = field(default=".")
     versions: List[PackageVersion] = field(default_factory=list)
 
-    def analyze(self):
-        tmp = mkdtemp()
-        repo = Repo.clone_from(self.source, tmp, depth=1)
-
+    def analyze(self, repo: Repo, tmp: str):
         branch, versions = (
             repo.active_branch,
             [
@@ -79,21 +76,26 @@ def main(index: str) -> int:
 
     for package in sorted(yaml_data["packages"], key=itemgetter("name")):
         if "package_dirs" in package:
-            for subpackage in package["package_dirs"]:
-                p = Package(
-                    name=f"{package['name']}-{subpackage}",
-                    description=f"{package['description']} ({subpackage})",
-                    source=package["source"],
-                    package_dir=subpackage,
-                )
-                p.analyze()
-                x = asdict(p)
-                del x["package_dir"]
-                result.append(x)
+            with tempfile.TemporaryDirectory() as tmp:
+                repo = Repo.clone_from(package["source"], tmp, depth=1)
+                for subpackage in package["package_dirs"]:
+                    p = Package(
+                        name=f"{package['name']}-{subpackage}",
+                        description=f"{package['description']} ({subpackage})",
+                        source=package["source"],
+                        package_dir=subpackage,
+                    )
+                    p.analyze(repo, tmp)
+                    x = asdict(p)
+                    del x["package_dir"]
+                    result.append(x)
         else:
             p = Package(**package)
 
-            p.analyze()
+            with tempfile.TemporaryDirectory() as tmp:
+                repo = Repo.clone_from(p.source, tmp, depth=1)
+                p.analyze(repo, tmp)
+
             x = asdict(p)
             del x["package_dir"]
             result.append(x)
