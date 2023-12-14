@@ -1,5 +1,28 @@
 [
   {
+    "name": "actions-runner-controller-libsonnet",
+    "description": "actions-runner-controller jsonnet library",
+    "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet",
+    "versions": [
+      {
+        "version": "0.26",
+        "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet/0.26@main"
+      },
+      {
+        "version": "0.27",
+        "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet/0.27@main"
+      },
+      {
+        "version": "0.4",
+        "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet/0.4@main"
+      },
+      {
+        "version": "0.5",
+        "source": "https://github.com/jsonnet-libs/actions-runner-controller-libsonnet/0.5@main"
+      }
+    ]
+  },
+  {
     "name": "argo-cd-libsonnet",
     "description": "argo-cd jsonnet library",
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
@@ -27,6 +50,377 @@
       {
         "version": "2.7",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.7@main"
+      }
+    ]
+  },
+  {
+    "name": "argo-rollouts-libsonnet",
+    "description": "argo-rollouts jsonnet library",
+    "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet",
+    "versions": [
+      {
+        "version": "1.6",
+        "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet/1.6@main"
+      }
+    ]
+  },
+  {
+    "name": "argo-workflows-libsonnet",
+    "description": "argo-workflows jsonnet library",
+    "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet",
+    "versions": [
+      {
+        "version": "3.1",
+        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.1@main"
+      },
+      {
+        "version": "3.2",
+        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.2@main"
+      },
+      {
+        "version": "3.3",
+        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.3@main"
+      },
+      {
+        "version": "3.4",
+        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.4@main"
+      }
+    ]
+  },
+  {
+    "name": "aws-load-balancer-controller-libsonnet",
+    "description": "aws-load-balancer-controller jsonnet library",
+    "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet",
+    "versions": [
+      {
+        "version": "2.2",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.2@main"
+      },
+      {
+        "version": "2.3",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.3@main"
+      },
+      {
+        "version": "2.4",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.4@main"
+      },
+      {
+        "version": "2.5",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.5@main"
+      },
+      {
+        "version": "2.6",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.6@main"
+      }
+    ]
+  },
+  {
+    "name": "cert-manager-libsonnet",
+    "description": "cert-manager jsonnet library",
+    "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet",
+    "versions": [
+      {
+        "version": "1.10",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.10@main"
+      },
+      {
+        "version": "1.11",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.11@main"
+      },
+      {
+        "version": "1.12",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.12@main"
+      },
+      {
+        "version": "1.13",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.13@main"
+      },
+      {
+        "version": "1.3",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.3@main"
+      },
+      {
+        "version": "1.4",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.4@main"
+      },
+      {
+        "version": "1.5",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.5@main"
+      },
+      {
+        "version": "1.6",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.6@main"
+      },
+      {
+        "version": "1.7",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.7@main"
+      },
+      {
+        "version": "1.8",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.8@main"
+      },
+      {
+        "version": "1.9",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.9@main"
+      }
+    ]
+  },
+  {
+    "name": "cloudnative-pg-libsonnet",
+    "description": "cloudnative-pg jsonnet library",
+    "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
+    "versions": [
+      {
+        "version": "1.18.5",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.18.5@main"
+      },
+      {
+        "version": "1.19.6",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.19.6@main"
+      },
+      {
+        "version": "1.20.4",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.20.4@main"
+      },
+      {
+        "version": "1.21.1",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.21.1@main"
+      }
+    ]
+  },
+  {
+    "name": "cnrm-libsonnet",
+    "description": "cnrm jsonnet library",
+    "source": "https://github.com/jsonnet-libs/cnrm-libsonnet",
+    "versions": [
+      {
+        "version": "1.74",
+        "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.74@main"
+      },
+      {
+        "version": "1.82",
+        "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.82@main"
+      },
+      {
+        "version": "1.93",
+        "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.93@main"
+      },
+      {
+        "version": "1.99",
+        "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.99@main"
+      }
+    ]
+  },
+  {
+    "name": "crossplane-libsonnet",
+    "description": "crossplane jsonnet library",
+    "source": "https://github.com/jsonnet-libs/crossplane-libsonnet",
+    "versions": []
+  },
+  {
+    "name": "eck-operator-libsonnet",
+    "description": "eck-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet",
+    "versions": [
+      {
+        "version": "1.9",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/1.9@main"
+      },
+      {
+        "version": "2.0",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.0@main"
+      },
+      {
+        "version": "2.1",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.1@main"
+      },
+      {
+        "version": "2.2",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.2@main"
+      },
+      {
+        "version": "2.3",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.3@main"
+      },
+      {
+        "version": "2.4",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.4@main"
+      },
+      {
+        "version": "2.5",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.5@main"
+      },
+      {
+        "version": "2.6",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.6@main"
+      },
+      {
+        "version": "2.7",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.7@main"
+      },
+      {
+        "version": "2.8",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.8@main"
+      },
+      {
+        "version": "2.9",
+        "source": "https://github.com/jsonnet-libs/eck-operator-libsonnet/2.9@main"
+      }
+    ]
+  },
+  {
+    "name": "edp-keycloak-operator-libsonnet",
+    "description": "edp-keycloak-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet",
+    "versions": [
+      {
+        "version": "1.15.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.15.0@main"
+      },
+      {
+        "version": "1.17.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.17.0@main"
+      },
+      {
+        "version": "1.18.1",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.18.1@main"
+      }
+    ]
+  },
+  {
+    "name": "external-secrets-libsonnet",
+    "description": "external-secrets jsonnet library",
+    "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet",
+    "versions": [
+      {
+        "version": "0.4",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.4@main"
+      },
+      {
+        "version": "0.5",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.5@main"
+      },
+      {
+        "version": "0.6",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.6@main"
+      },
+      {
+        "version": "0.7",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.7@main"
+      },
+      {
+        "version": "0.8",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.8@main"
+      },
+      {
+        "version": "0.9",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.9@main"
+      }
+    ]
+  },
+  {
+    "name": "fluxcd-libsonnet",
+    "description": "fluxcd jsonnet library",
+    "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet",
+    "versions": [
+      {
+        "version": "0.30.2",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.30.2@main"
+      },
+      {
+        "version": "0.31.1",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.31.1@main"
+      },
+      {
+        "version": "0.32.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.32.0@main"
+      },
+      {
+        "version": "0.33.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.33.0@main"
+      },
+      {
+        "version": "0.34.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.34.0@main"
+      },
+      {
+        "version": "0.35.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.35.0@main"
+      },
+      {
+        "version": "0.36.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.36.0@main"
+      },
+      {
+        "version": "0.37.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.37.0@main"
+      },
+      {
+        "version": "0.38.3",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.38.3@main"
+      },
+      {
+        "version": "0.41.1",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/0.41.1@main"
+      },
+      {
+        "version": "2.0.1",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.0.1@main"
+      }
+    ]
+  },
+  {
+    "name": "grafana-operator-libsonnet",
+    "description": "grafana-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet",
+    "versions": [
+      {
+        "version": "4.1",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.1@main"
+      },
+      {
+        "version": "4.10",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.10@main"
+      },
+      {
+        "version": "4.2",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.2@main"
+      },
+      {
+        "version": "4.3",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.3@main"
+      },
+      {
+        "version": "4.4",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.4@main"
+      },
+      {
+        "version": "4.5",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.5@main"
+      },
+      {
+        "version": "4.6",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.6@main"
+      },
+      {
+        "version": "4.7",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.7@main"
+      },
+      {
+        "version": "4.8",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.8@main"
+      },
+      {
+        "version": "4.9",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.9@main"
+      },
+      {
+        "version": "5.0",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.0@main"
+      },
+      {
+        "version": "5.4",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.4@main"
       }
     ]
   },
@@ -132,6 +526,184 @@
     ]
   },
   {
+    "name": "kube-prometheus-libsonnet",
+    "description": "kube-prometheus jsonnet library",
+    "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet",
+    "versions": [
+      {
+        "version": "0.10",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.10@main"
+      },
+      {
+        "version": "0.11",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.11@main"
+      },
+      {
+        "version": "0.12",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.12@main"
+      },
+      {
+        "version": "0.13",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.13@main"
+      },
+      {
+        "version": "0.8",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.8@main"
+      },
+      {
+        "version": "0.9",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.9@main"
+      }
+    ]
+  },
+  {
+    "name": "openshift-libsonnet",
+    "description": "openshift jsonnet library",
+    "source": "https://github.com/jsonnet-libs/openshift-libsonnet",
+    "versions": [
+      {
+        "version": "3.11",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/3.11@main"
+      },
+      {
+        "version": "4.0",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.0@main"
+      },
+      {
+        "version": "4.1",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.1@main"
+      },
+      {
+        "version": "4.2",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.2@main"
+      },
+      {
+        "version": "4.3",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.3@main"
+      },
+      {
+        "version": "4.4",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.4@main"
+      },
+      {
+        "version": "4.5",
+        "source": "https://github.com/jsonnet-libs/openshift-libsonnet/4.5@main"
+      }
+    ]
+  },
+  {
+    "name": "prometheus-operator-libsonnet",
+    "description": "prometheus-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet",
+    "versions": [
+      {
+        "version": "0.57",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.57@main"
+      },
+      {
+        "version": "0.58",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.58@main"
+      },
+      {
+        "version": "0.59",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.59@main"
+      },
+      {
+        "version": "0.60",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.60@main"
+      },
+      {
+        "version": "0.61",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.61@main"
+      },
+      {
+        "version": "0.62",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.62@main"
+      },
+      {
+        "version": "0.63",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.63@main"
+      },
+      {
+        "version": "0.64",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.64@main"
+      },
+      {
+        "version": "0.65",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.65@main"
+      },
+      {
+        "version": "0.66",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.66@main"
+      },
+      {
+        "version": "0.67",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.67@main"
+      },
+      {
+        "version": "0.68",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.68@main"
+      }
+    ]
+  },
+  {
+    "name": "secrets-store-csi-driver-libsonnet",
+    "description": "secrets-store-csi-driver jsonnet library",
+    "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet",
+    "versions": [
+      {
+        "version": "1.2",
+        "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.2@main"
+      },
+      {
+        "version": "1.3",
+        "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.3@main"
+      }
+    ]
+  },
+  {
+    "name": "securecodebox-libsonnet",
+    "description": "securecodebox jsonnet library",
+    "source": "https://github.com/jsonnet-libs/securecodebox-libsonnet",
+    "versions": [
+      {
+        "version": "3.14",
+        "source": "https://github.com/jsonnet-libs/securecodebox-libsonnet/3.14@main"
+      },
+      {
+        "version": "3.15",
+        "source": "https://github.com/jsonnet-libs/securecodebox-libsonnet/3.15@main"
+      },
+      {
+        "version": "3.7",
+        "source": "https://github.com/jsonnet-libs/securecodebox-libsonnet/3.7@main"
+      }
+    ]
+  },
+  {
+    "name": "strimzi-libsonnet",
+    "description": "strimzi jsonnet library",
+    "source": "https://github.com/jsonnet-libs/strimzi-libsonnet",
+    "versions": [
+      {
+        "version": "0.23",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.23@main"
+      },
+      {
+        "version": "0.24",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.24@main"
+      },
+      {
+        "version": "0.32",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.32@main"
+      },
+      {
+        "version": "0.35",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.35@main"
+      }
+    ]
+  },
+  {
     "name": "teleport-operator-libsonnet",
     "description": "teleport-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet",
@@ -159,6 +731,37 @@
     ]
   },
   {
+    "name": "traefik-libsonnet",
+    "description": "traefik jsonnet library",
+    "source": "https://github.com/jsonnet-libs/traefik-libsonnet",
+    "versions": [
+      {
+        "version": "2.10.0",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.10.0@main"
+      },
+      {
+        "version": "2.10.4",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.10.4@main"
+      },
+      {
+        "version": "2.10.5",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.10.5@main"
+      },
+      {
+        "version": "2.8.0",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.8.0@main"
+      },
+      {
+        "version": "2.9.10",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.9.10@main"
+      },
+      {
+        "version": "2.9.8",
+        "source": "https://github.com/jsonnet-libs/traefik-libsonnet/2.9.8@main"
+      }
+    ]
+  },
+  {
     "name": "vault-secrets-operator-libsonnet",
     "description": "vault-secrets-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet",
@@ -174,6 +777,25 @@
       {
         "version": "0.3.0",
         "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.3.0@main"
+      }
+    ]
+  },
+  {
+    "name": "vertical-pod-autoscaler-libsonnet",
+    "description": "vertical-pod-autoscaler jsonnet library",
+    "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet",
+    "versions": [
+      {
+        "version": "0.10",
+        "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/0.10@main"
+      },
+      {
+        "version": "0.11",
+        "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/0.11@main"
+      },
+      {
+        "version": "0.12",
+        "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/0.12@main"
       }
     ]
   }
