@@ -31,6 +31,72 @@
     ]
   },
   {
+    "name": "istio-libsonnet",
+    "description": "istio jsonnet library",
+    "source": "https://github.com/jsonnet-libs/istio-libsonnet",
+    "versions": [
+      {
+        "version": "1.17",
+        "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.17@main"
+      },
+      {
+        "version": "1.18",
+        "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.18@main"
+      },
+      {
+        "version": "1.19",
+        "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.19@main"
+      },
+      {
+        "version": "1.20",
+        "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.20@main"
+      }
+    ]
+  },
+  {
+    "name": "k8s-libsonnet",
+    "description": "k8s jsonnet library",
+    "source": "https://github.com/jsonnet-libs/k8s-libsonnet",
+    "versions": [
+      {
+        "version": "1.20",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.20@main"
+      },
+      {
+        "version": "1.21",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.21@main"
+      },
+      {
+        "version": "1.22",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.22@main"
+      },
+      {
+        "version": "1.23",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.23@main"
+      },
+      {
+        "version": "1.24",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.24@main"
+      },
+      {
+        "version": "1.25",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.25@main"
+      },
+      {
+        "version": "1.26",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.26@main"
+      },
+      {
+        "version": "1.27",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.27@main"
+      },
+      {
+        "version": "1.28",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.28@main"
+      }
+    ]
+  },
+  {
     "name": "keda-libsonnet",
     "description": "keda jsonnet library",
     "source": "https://github.com/jsonnet-libs/keda-libsonnet",
@@ -62,6 +128,52 @@
       {
         "version": "2.9",
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.9@main"
+      }
+    ]
+  },
+  {
+    "name": "teleport-operator-libsonnet",
+    "description": "teleport-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet",
+    "versions": [
+      {
+        "version": "12.2",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/12.2@main"
+      },
+      {
+        "version": "13.0",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/13.0@main"
+      },
+      {
+        "version": "13.1",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/13.1@main"
+      },
+      {
+        "version": "13.2",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/13.2@main"
+      },
+      {
+        "version": "14.1",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/14.1@main"
+      }
+    ]
+  },
+  {
+    "name": "vault-secrets-operator-libsonnet",
+    "description": "vault-secrets-operator jsonnet library",
+    "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet",
+    "versions": [
+      {
+        "version": "0.1.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.1.0@main"
+      },
+      {
+        "version": "0.2.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.2.0@main"
+      },
+      {
+        "version": "0.3.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.3.0@main"
       }
     ]
   }
