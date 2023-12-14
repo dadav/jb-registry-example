@@ -6,3 +6,15 @@ packages:
   - name: keda-libsonnet
     description: keda jsonnet library
     source: https://github.com/jsonnet-libs/keda-libsonnet
+  - name: istio-libsonnet
+    description: istio jsonnet library
+    source: https://github.com/jsonnet-libs/istio-libsonnet
+  - name: vault-secrets-operator-libsonnet
+    description: vault-secrets-operator jsonnet library
+    source: https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet
+  - name: teleport-operator-libsonnet
+    description: teleport-operator jsonnet library
+    source: https://github.com/jsonnet-libs/teleport-operator-libsonnet
+  - name: k8s-libsonnet
+    description: k8s jsonnet library
+    source: https://github.com/jsonnet-libs/k8s-libsonnet
