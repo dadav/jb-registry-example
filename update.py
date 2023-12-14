@@ -35,16 +35,18 @@ class Package:
     name: str
     description: str
     source: str
+    package_dir: str = field(default=".")
     versions: List[PackageVersion] = field(default_factory=list)
 
     def analyze(self):
         tmp = mkdtemp()
         repo = Repo.clone_from(self.source, tmp)
+
         branch, versions = (
             repo.active_branch,
             [
                 version.name
-                for version in Path(tmp).glob("*")
+                for version in Path(tmp).glob(f"{self.package_dir}/*")
                 if version.is_dir() and VERSION_REGEX.match(version.name)
             ],
         )
@@ -63,9 +65,21 @@ def main(index: str) -> int:
     result = list()
 
     for package in sorted(yaml_data["packages"], key=itemgetter("name")):
-        p = Package(**package)
-        p.analyze()
-        result.append(asdict(p))
+        if "package_dirs" in package:
+            for subpackage in package["package_dirs"]:
+                p = Package(
+                    name=f"{package['name']}-{subpackage}",
+                    description=f"{package['description']} ({subpackage})",
+                    source=package["source"],
+                    package_dir=subpackage,
+                )
+                p.analyze()
+                result.append(asdict(p))
+        else:
+            p = Package(**package)
+
+            p.analyze()
+            result.append(asdict(p))
 
     with open("_gen.json", "wt") as f:
         f.write(json.dumps(result, indent=2))

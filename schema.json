@@ -9,7 +9,11 @@
         "properties": {
           "name": { "type": "string" },
           "description": { "type": "string" },
-          "source": { "type": "string", "format": "uri" }
+          "source": { "type": "string", "format": "uri" },
+          "package_dirs": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
         },
         "required": ["name", "description", "source"],
         "additionalProperties": false
