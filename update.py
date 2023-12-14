@@ -14,6 +14,7 @@ from operator import itemgetter
 from git import Repo
 
 VERSION_REGEX = re.compile(r"^\d+\.\d+(?:\.\d+)?$")
+PACKAGE_FILE = "jsonnetfile.json"
 
 # Configure the logging system
 logging.basicConfig(
@@ -50,6 +51,15 @@ class Package:
                 if version.is_dir() and VERSION_REGEX.match(version.name)
             ],
         )
+
+        if len(versions) == 0:
+            if self.package_dir != ".":
+                self.versions.append(
+                    PackageVersion("HEAD", f"{self.source}/{self.package_dir}@{branch}")
+                )
+            else:
+                self.versions.append(PackageVersion("HEAD", f"{self.source}@{branch}"))
+            return
 
         for v in sorted(versions):
             if self.package_dir != ".":
