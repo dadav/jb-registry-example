@@ -35,27 +35,25 @@ class Package:
     name: str
     description: str
     source: str
-    _package_dir: str = field(default=".")
+    package_dir: str = field(default=".")
     versions: List[PackageVersion] = field(default_factory=list)
 
     def analyze(self):
         tmp = mkdtemp()
-        repo = Repo.clone_from(self.source, tmp)
+        repo = Repo.clone_from(self.source, tmp, depth=1)
 
         branch, versions = (
             repo.active_branch,
             [
                 version.name
-                for version in Path(tmp).glob(f"{self._package_dir}/*")
+                for version in Path(tmp).glob(f"{self.package_dir}/*")
                 if version.is_dir() and VERSION_REGEX.match(version.name)
             ],
         )
 
         for v in sorted(versions):
-            if self._package_dir != ".":
-                pv = PackageVersion(
-                    v, f"{self.source}/{self._package_dir}/{v}@{branch}"
-                )
+            if self.package_dir != ".":
+                pv = PackageVersion(v, f"{self.source}/{self.package_dir}/{v}@{branch}")
             else:
                 pv = PackageVersion(v, f"{self.source}/{v}@{branch}")
             self.versions.append(pv)
@@ -76,15 +74,19 @@ def main(index: str) -> int:
                     name=f"{package['name']}-{subpackage}",
                     description=f"{package['description']} ({subpackage})",
                     source=package["source"],
-                    _package_dir=subpackage,
+                    package_dir=subpackage,
                 )
                 p.analyze()
-                result.append(asdict(p))
+                x = asdict(p)
+                del x["package_dir"]
+                result.append(x)
         else:
             p = Package(**package)
 
             p.analyze()
-            result.append(asdict(p))
+            x = asdict(p)
+            del x["package_dir"]
+            result.append(x)
 
     with open("_gen.json", "wt") as f:
         f.write(json.dumps(result, indent=2))
