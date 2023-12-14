@@ -35,7 +35,7 @@ class Package:
     name: str
     description: str
     source: str
-    package_dir: str = field(default=".")
+    _package_dir: str = field(default=".")
     versions: List[PackageVersion] = field(default_factory=list)
 
     def analyze(self):
@@ -46,7 +46,7 @@ class Package:
             repo.active_branch,
             [
                 version.name
-                for version in Path(tmp).glob(f"{self.package_dir}/*")
+                for version in Path(tmp).glob(f"{self._package_dir}/*")
                 if version.is_dir() and VERSION_REGEX.match(version.name)
             ],
         )
@@ -71,7 +71,7 @@ def main(index: str) -> int:
                     name=f"{package['name']}-{subpackage}",
                     description=f"{package['description']} ({subpackage})",
                     source=package["source"],
-                    package_dir=subpackage,
+                    _package_dir=subpackage,
                 )
                 p.analyze()
                 result.append(asdict(p))
