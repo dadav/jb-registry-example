@@ -52,7 +52,12 @@ class Package:
         )
 
         for v in sorted(versions):
-            pv = PackageVersion(v, f"{self.source}/{v}@{branch}")
+            if self._package_dir != ".":
+                pv = PackageVersion(
+                    v, f"{self.source}/{self._package_dir}/{v}@{branch}"
+                )
+            else:
+                pv = PackageVersion(v, f"{self.source}/{v}@{branch}")
             self.versions.append(pv)
 
 
