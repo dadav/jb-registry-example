@@ -401,6 +401,1293 @@
     ]
   },
   {
+    "name": "grafana-jsonnetlibs-aerospike-mixin",
+    "description": "Grafana Labs Jsonnet libraries (aerospike-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/aerospike-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-alertmanager",
+    "description": "Grafana Labs Jsonnet libraries (alertmanager)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/alertmanager@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-activemq-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-activemq-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-activemq-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-airflow-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-airflow-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-airflow-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-camel-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-camel-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-camel-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-cassandra-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-cassandra-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-cassandra-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-couchdb-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-couchdb-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-couchdb-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-hadoop-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-hadoop-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-hadoop-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-hbase-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-hbase-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-hbase-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-http-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-http-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-http-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-mesos-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-mesos-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-mesos-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-apache-tomcat-mixin",
+    "description": "Grafana Labs Jsonnet libraries (apache-tomcat-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/apache-tomcat-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-argocd-mixin",
+    "description": "Grafana Labs Jsonnet libraries (argocd-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/argocd-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-asterisk-mixin",
+    "description": "Grafana Labs Jsonnet libraries (asterisk-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/asterisk-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-awx-mixin",
+    "description": "Grafana Labs Jsonnet libraries (awx-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/awx-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-caddy-mixin",
+    "description": "Grafana Labs Jsonnet libraries (caddy-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/caddy-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-ceph-mixin",
+    "description": "Grafana Labs Jsonnet libraries (ceph-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/ceph-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-cert-manager",
+    "description": "Grafana Labs Jsonnet libraries (cert-manager)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/cert-manager@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-cilium-enterprise-mixin",
+    "description": "Grafana Labs Jsonnet libraries (cilium-enterprise-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/cilium-enterprise-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-clickhouse-mixin",
+    "description": "Grafana Labs Jsonnet libraries (clickhouse-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/clickhouse-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-cloudflare-mixin",
+    "description": "Grafana Labs Jsonnet libraries (cloudflare-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/cloudflare-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-common-lib",
+    "description": "Grafana Labs Jsonnet libraries (common-lib)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/common-lib@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-confluent-kafka-mixin",
+    "description": "Grafana Labs Jsonnet libraries (confluent-kafka-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/confluent-kafka-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-consul",
+    "description": "Grafana Labs Jsonnet libraries (consul)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/consul@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-consul-mixin",
+    "description": "Grafana Labs Jsonnet libraries (consul-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/consul-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-couchbase-mixin",
+    "description": "Grafana Labs Jsonnet libraries (couchbase-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/couchbase-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-discourse-mixin",
+    "description": "Grafana Labs Jsonnet libraries (discourse-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/discourse-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-docker-mixin",
+    "description": "Grafana Labs Jsonnet libraries (docker-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/docker-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-docker-registry",
+    "description": "Grafana Labs Jsonnet libraries (docker-registry)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/docker-registry@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-elasticsearch-mixin",
+    "description": "Grafana Labs Jsonnet libraries (elasticsearch-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/elasticsearch-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-enterprise-metrics",
+    "description": "Grafana Labs Jsonnet libraries (enterprise-metrics)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/enterprise-metrics@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-envoy-mixin",
+    "description": "Grafana Labs Jsonnet libraries (envoy-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/envoy-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-etcd-operator",
+    "description": "Grafana Labs Jsonnet libraries (etcd-operator)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/etcd-operator@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-f5-bigip-mixin",
+    "description": "Grafana Labs Jsonnet libraries (f5-bigip-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/f5-bigip-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-gitlab-mixin",
+    "description": "Grafana Labs Jsonnet libraries (gitlab-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/gitlab-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-go-runtime-mixin",
+    "description": "Grafana Labs Jsonnet libraries (go-runtime-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/go-runtime-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-grafana",
+    "description": "Grafana Labs Jsonnet libraries (grafana)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/grafana@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-grafana-agent-mixin",
+    "description": "Grafana Labs Jsonnet libraries (grafana-agent-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/grafana-agent-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-grafana-builder",
+    "description": "Grafana Labs Jsonnet libraries (grafana-builder)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/grafana-builder@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-grafana-cloud-integration-utils",
+    "description": "Grafana Labs Jsonnet libraries (grafana-cloud-integration-utils)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/grafana-cloud-integration-utils@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-grizzly",
+    "description": "Grafana Labs Jsonnet libraries (grizzly)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/grizzly@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-haproxy-mixin",
+    "description": "Grafana Labs Jsonnet libraries (haproxy-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/haproxy-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-harbor-mixin",
+    "description": "Grafana Labs Jsonnet libraries (harbor-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/harbor-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-hass-mixin",
+    "description": "Grafana Labs Jsonnet libraries (hass-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/hass-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-helloworld-observ-lib",
+    "description": "Grafana Labs Jsonnet libraries (helloworld-observ-lib)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/helloworld-observ-lib@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-helm-util",
+    "description": "Grafana Labs Jsonnet libraries (helm-util)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/helm-util@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-ibm-mq-mixin",
+    "description": "Grafana Labs Jsonnet libraries (ibm-mq-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/ibm-mq-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-influxdb-mixin",
+    "description": "Grafana Labs Jsonnet libraries (influxdb-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/influxdb-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-istio-mixin",
+    "description": "Grafana Labs Jsonnet libraries (istio-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/istio-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-jaeger-agent-mixin",
+    "description": "Grafana Labs Jsonnet libraries (jaeger-agent-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/jaeger-agent-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-jaeger-mixin",
+    "description": "Grafana Labs Jsonnet libraries (jaeger-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/jaeger-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-jenkins-mixin",
+    "description": "Grafana Labs Jsonnet libraries (jenkins-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/jenkins-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-jira-mixin",
+    "description": "Grafana Labs Jsonnet libraries (jira-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/jira-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-jvm-mixin",
+    "description": "Grafana Labs Jsonnet libraries (jvm-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/jvm-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-k8s-node-termination-handler",
+    "description": "Grafana Labs Jsonnet libraries (k8s-node-termination-handler)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/k8s-node-termination-handler@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-kafka-mixin",
+    "description": "Grafana Labs Jsonnet libraries (kafka-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/kafka-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-ksonnet-util",
+    "description": "Grafana Labs Jsonnet libraries (ksonnet-util)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/ksonnet-util@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-kubescape-mixin",
+    "description": "Grafana Labs Jsonnet libraries (kubescape-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/kubescape-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-kube-state-metrics",
+    "description": "Grafana Labs Jsonnet libraries (kube-state-metrics)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/kube-state-metrics@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-logs-lib",
+    "description": "Grafana Labs Jsonnet libraries (logs-lib)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/logs-lib@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-loki",
+    "description": "Grafana Labs Jsonnet libraries (loki)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/loki@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-memcached",
+    "description": "Grafana Labs Jsonnet libraries (memcached)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/memcached@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-memcached-mixin",
+    "description": "Grafana Labs Jsonnet libraries (memcached-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/memcached-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-microsoft-iis-mixin",
+    "description": "Grafana Labs Jsonnet libraries (microsoft-iis-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/microsoft-iis-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-minio-mixin",
+    "description": "Grafana Labs Jsonnet libraries (minio-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/minio-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mixin-utils",
+    "description": "Grafana Labs Jsonnet libraries (mixin-utils)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mixin-utils@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mongodb-atlas-mixin",
+    "description": "Grafana Labs Jsonnet libraries (mongodb-atlas-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mongodb-atlas-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mongodb-mixin",
+    "description": "Grafana Labs Jsonnet libraries (mongodb-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mongodb-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mssql-mixin",
+    "description": "Grafana Labs Jsonnet libraries (mssql-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mssql-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mysqld-exporter",
+    "description": "Grafana Labs Jsonnet libraries (mysqld-exporter)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mysqld-exporter@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-mysql-exporter",
+    "description": "Grafana Labs Jsonnet libraries (mysql-exporter)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/mysql-exporter@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-nginx-directory",
+    "description": "Grafana Labs Jsonnet libraries (nginx-directory)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/nginx-directory@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-nginx-mixin",
+    "description": "Grafana Labs Jsonnet libraries (nginx-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/nginx-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-node-exporter",
+    "description": "Grafana Labs Jsonnet libraries (node-exporter)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/node-exporter@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-nodejs-mixin",
+    "description": "Grafana Labs Jsonnet libraries (nodejs-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/nodejs-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-nomad-mixin",
+    "description": "Grafana Labs Jsonnet libraries (nomad-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/nomad-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-nsq-mixin",
+    "description": "Grafana Labs Jsonnet libraries (nsq-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/nsq-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-oauth2-proxy",
+    "description": "Grafana Labs Jsonnet libraries (oauth2-proxy)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/oauth2-proxy@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-opensearch-mixin",
+    "description": "Grafana Labs Jsonnet libraries (opensearch-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/opensearch-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-oracledb-mixin",
+    "description": "Grafana Labs Jsonnet libraries (oracledb-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/oracledb-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-pentagon",
+    "description": "Grafana Labs Jsonnet libraries (pentagon)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/pentagon@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-postgres-exporter",
+    "description": "Grafana Labs Jsonnet libraries (postgres-exporter)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/postgres-exporter@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-presto-mixin",
+    "description": "Grafana Labs Jsonnet libraries (presto-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/presto-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-prometheus",
+    "description": "Grafana Labs Jsonnet libraries (prometheus)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/prometheus@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-prometheus-ksonnet",
+    "description": "Grafana Labs Jsonnet libraries (prometheus-ksonnet)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/prometheus-ksonnet@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-prometheus-metamonitoring",
+    "description": "Grafana Labs Jsonnet libraries (prometheus-metamonitoring)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/prometheus-metamonitoring@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-promsonnet",
+    "description": "Grafana Labs Jsonnet libraries (promsonnet)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/promsonnet@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-python-runtime-mixin",
+    "description": "Grafana Labs Jsonnet libraries (python-runtime-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/python-runtime-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-rabbitmq-mixin",
+    "description": "Grafana Labs Jsonnet libraries (rabbitmq-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/rabbitmq-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-rclone-mixin",
+    "description": "Grafana Labs Jsonnet libraries (rclone-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/rclone-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-redis",
+    "description": "Grafana Labs Jsonnet libraries (redis)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/redis@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-redis-enterprise-mixin",
+    "description": "Grafana Labs Jsonnet libraries (redis-enterprise-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/redis-enterprise-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-redis-mixin",
+    "description": "Grafana Labs Jsonnet libraries (redis-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/redis-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-ruby-mixin",
+    "description": "Grafana Labs Jsonnet libraries (ruby-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/ruby-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-sap-hana-mixin",
+    "description": "Grafana Labs Jsonnet libraries (sap-hana-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/sap-hana-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-snmp-mixin",
+    "description": "Grafana Labs Jsonnet libraries (snmp-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/snmp-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-spark-mixin",
+    "description": "Grafana Labs Jsonnet libraries (spark-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/spark-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-spring-boot-mixin",
+    "description": "Grafana Labs Jsonnet libraries (spring-boot-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/spring-boot-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-squid-mixin",
+    "description": "Grafana Labs Jsonnet libraries (squid-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/squid-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-static-exporter",
+    "description": "Grafana Labs Jsonnet libraries (static-exporter)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/static-exporter@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-status-panels-lib",
+    "description": "Grafana Labs Jsonnet libraries (status-panels-lib)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/status-panels-lib@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-synthetic-monitoring",
+    "description": "Grafana Labs Jsonnet libraries (synthetic-monitoring)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/synthetic-monitoring@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-tanka-util",
+    "description": "Grafana Labs Jsonnet libraries (tanka-util)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/tanka-util@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-tensorflow-mixin",
+    "description": "Grafana Labs Jsonnet libraries (tensorflow-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/tensorflow-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-time",
+    "description": "Grafana Labs Jsonnet libraries (time)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/time@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-tomcat-mixin",
+    "description": "Grafana Labs Jsonnet libraries (tomcat-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/tomcat-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-traefik-mixin",
+    "description": "Grafana Labs Jsonnet libraries (traefik-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/traefik-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-ubnt-edgerouter-mixin",
+    "description": "Grafana Labs Jsonnet libraries (ubnt-edgerouter-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/ubnt-edgerouter-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-varnish-mixin",
+    "description": "Grafana Labs Jsonnet libraries (varnish-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/varnish-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-vault",
+    "description": "Grafana Labs Jsonnet libraries (vault)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/vault@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-vault-mixin",
+    "description": "Grafana Labs Jsonnet libraries (vault-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/vault-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-velero-mixin",
+    "description": "Grafana Labs Jsonnet libraries (velero-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/velero-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-wildfly-mixin",
+    "description": "Grafana Labs Jsonnet libraries (wildfly-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/wildfly-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-windows-mixin",
+    "description": "Grafana Labs Jsonnet libraries (windows-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/windows-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-windows-observ-lib",
+    "description": "Grafana Labs Jsonnet libraries (windows-observ-lib)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/windows-observ-lib@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-wso2-enterprise-integrator-mixin",
+    "description": "Grafana Labs Jsonnet libraries (wso2-enterprise-integrator-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/wso2-enterprise-integrator-mixin@master"
+      }
+    ]
+  },
+  {
+    "name": "grafana-jsonnetlibs-wso2-streaming-integrator-mixin",
+    "description": "Grafana Labs Jsonnet libraries (wso2-streaming-integrator-mixin)",
+    "source": "https://github.com/grafana/jsonnet-libs",
+    "versions": [
+      {
+        "version": "HEAD",
+        "source": "https://github.com/grafana/jsonnet-libs/wso2-streaming-integrator-mixin@master"
+      }
+    ]
+  },
+  {
     "name": "grafana-operator-libsonnet",
     "description": "grafana-operator jsonnet library",
     "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet",
