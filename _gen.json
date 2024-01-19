@@ -235,6 +235,10 @@
       {
         "version": "1.13",
         "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.13@main"
+      },
+      {
+        "version": "1.14",
+        "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.14@main"
       }
     ]
   },
@@ -2134,6 +2138,14 @@
       {
         "version": "0.12",
         "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/0.12@main"
+      },
+      {
+        "version": "0.14",
+        "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/0.14@main"
+      },
+      {
+        "version": "1.0.0",
+        "source": "https://github.com/jsonnet-libs/vertical-pod-autoscaler-libsonnet/1.0.0@main"
       }
     ]
   }
