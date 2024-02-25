@@ -148,6 +148,10 @@
         "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.13@main"
       },
       {
+        "version": "1.14",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.14@main"
+      },
+      {
         "version": "1.3",
         "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.3@main"
       },
@@ -2073,6 +2077,10 @@
       {
         "version": "14.1",
         "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/14.1@main"
+      },
+      {
+        "version": "15.0",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/15.0@main"
       }
     ]
   },
