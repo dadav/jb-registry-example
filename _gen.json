@@ -1834,6 +1834,10 @@
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.12@main"
       },
       {
+        "version": "2.13",
+        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.13@main"
+      },
+      {
         "version": "2.6",
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.6@main"
       },
@@ -1969,6 +1973,22 @@
       {
         "version": "0.68",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.68@main"
+      },
+      {
+        "version": "0.69",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.69@main"
+      },
+      {
+        "version": "0.70",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.70@main"
+      },
+      {
+        "version": "0.71",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.71@main"
+      },
+      {
+        "version": "0.72",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.72@main"
       }
     ]
   },
