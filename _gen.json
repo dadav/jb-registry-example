@@ -187,12 +187,12 @@
     "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
     "versions": [
       {
-        "version": "1.21.4",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.21.4@main"
+        "version": "1.21.5",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.21.5@main"
       },
       {
-        "version": "1.22.2",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.22.2@main"
+        "version": "1.22.3",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.22.3@main"
       }
     ]
   },
@@ -417,6 +417,10 @@
       {
         "version": "2.2.2",
         "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.2.2@main"
+      },
+      {
+        "version": "2.3.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.3.0@main"
       }
     ]
   },
@@ -1767,6 +1771,14 @@
       {
         "version": "5.6",
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.6@main"
+      },
+      {
+        "version": "5.7",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.7@main"
+      },
+      {
+        "version": "5.8",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.8@main"
       }
     ]
   },
