@@ -1825,6 +1825,10 @@
       {
         "version": "1.29",
         "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.29@main"
+      },
+      {
+        "version": "1.30",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.30@main"
       }
     ]
   },
