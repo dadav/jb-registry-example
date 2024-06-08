@@ -189,6 +189,10 @@
       {
         "version": "1.22.3",
         "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.22.3@main"
+      },
+      {
+        "version": "1.23.1",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.23.1@main"
       }
     ]
   },
