@@ -2157,8 +2157,20 @@
         "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.2.0@main"
       },
       {
-        "version": "0.3.0",
-        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.3.0@main"
+        "version": "0.4.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.4.0@main"
+      },
+      {
+        "version": "0.5.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.5.0@main"
+      },
+      {
+        "version": "0.6.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.6.0@main"
+      },
+      {
+        "version": "0.7.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.7.0@main"
       }
     ]
   },
