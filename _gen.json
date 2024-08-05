@@ -65,6 +65,10 @@
       {
         "version": "1.6",
         "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet/1.6@main"
+      },
+      {
+        "version": "1.7",
+        "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet/1.7@main"
       }
     ]
   },
@@ -331,6 +335,26 @@
       {
         "version": "1.18.1",
         "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.18.1@main"
+      },
+      {
+        "version": "1.18.2",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.18.2@main"
+      },
+      {
+        "version": "1.19.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.19.0@main"
+      },
+      {
+        "version": "1.20.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.20.0@main"
+      },
+      {
+        "version": "1.21.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.21.0@main"
+      },
+      {
+        "version": "1.22.0",
+        "source": "https://github.com/jsonnet-libs/edp-keycloak-operator-libsonnet/1.22.0@main"
       }
     ]
   },
