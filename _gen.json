@@ -191,16 +191,12 @@
     "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
     "versions": [
       {
-        "version": "1.21.5",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.21.5@main"
+        "version": "1.23.4",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.23.4@main"
       },
       {
-        "version": "1.22.3",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.22.3@main"
-      },
-      {
-        "version": "1.23.1",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.23.1@main"
+        "version": "1.24.0",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.24.0@main"
       }
     ]
   },
@@ -1890,20 +1886,12 @@
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.13@main"
       },
       {
-        "version": "2.6",
-        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.6@main"
+        "version": "2.14",
+        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.14@main"
       },
       {
-        "version": "2.7",
-        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.7@main"
-      },
-      {
-        "version": "2.8",
-        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.8@main"
-      },
-      {
-        "version": "2.9",
-        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.9@main"
+        "version": "2.15",
+        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.15@main"
       }
     ]
   },
