@@ -239,6 +239,10 @@
       {
         "version": "1.14",
         "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.14@main"
+      },
+      {
+        "version": "1.15",
+        "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.15@main"
       }
     ]
   },
@@ -1785,6 +1789,26 @@
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.0@main"
       },
       {
+        "version": "5.10",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.10@main"
+      },
+      {
+        "version": "5.11",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.11@main"
+      },
+      {
+        "version": "5.12",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.12@main"
+      },
+      {
+        "version": "5.13",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.13@main"
+      },
+      {
+        "version": "5.14",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.14@main"
+      },
+      {
         "version": "5.4",
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.4@main"
       },
@@ -1803,6 +1827,10 @@
       {
         "version": "5.8",
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.8@main"
+      },
+      {
+        "version": "5.9",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.9@main"
       }
     ]
   },
@@ -1915,6 +1943,10 @@
       {
         "version": "0.13",
         "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.13@main"
+      },
+      {
+        "version": "0.14",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.14@main"
       },
       {
         "version": "0.8",
@@ -2187,6 +2219,10 @@
       {
         "version": "0.7.0",
         "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.7.0@main"
+      },
+      {
+        "version": "0.8.0",
+        "source": "https://github.com/jsonnet-libs/vault-secrets-operator-libsonnet/0.8.0@main"
       }
     ]
   },
