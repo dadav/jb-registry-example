@@ -1999,46 +1999,6 @@
     "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet",
     "versions": [
       {
-        "version": "0.57",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.57@main"
-      },
-      {
-        "version": "0.58",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.58@main"
-      },
-      {
-        "version": "0.59",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.59@main"
-      },
-      {
-        "version": "0.60",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.60@main"
-      },
-      {
-        "version": "0.61",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.61@main"
-      },
-      {
-        "version": "0.62",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.62@main"
-      },
-      {
-        "version": "0.63",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.63@main"
-      },
-      {
-        "version": "0.64",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.64@main"
-      },
-      {
-        "version": "0.65",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.65@main"
-      },
-      {
-        "version": "0.66",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.66@main"
-      },
-      {
         "version": "0.67",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.67@main"
       },
@@ -2061,6 +2021,26 @@
       {
         "version": "0.72",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.72@main"
+      },
+      {
+        "version": "0.73",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.73@main"
+      },
+      {
+        "version": "0.74",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.74@main"
+      },
+      {
+        "version": "0.75",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.75@main"
+      },
+      {
+        "version": "0.76",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.76@main"
+      },
+      {
+        "version": "0.77",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.77@main"
       }
     ]
   },
