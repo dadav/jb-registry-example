@@ -243,6 +243,14 @@
       {
         "version": "1.15",
         "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.15@main"
+      },
+      {
+        "version": "1.16",
+        "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.16@main"
+      },
+      {
+        "version": "1.17",
+        "source": "https://github.com/jsonnet-libs/crossplane-libsonnet/crossplane/1.17@main"
       }
     ]
   },
