@@ -457,6 +457,10 @@
       {
         "version": "2.3.0",
         "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.3.0@main"
+      },
+      {
+        "version": "2.4.0",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.4.0@main"
       }
     ]
   },
@@ -2153,6 +2157,10 @@
       {
         "version": "15.0",
         "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/15.0@main"
+      },
+      {
+        "version": "16.4",
+        "source": "https://github.com/jsonnet-libs/teleport-operator-libsonnet/16.4@main"
       }
     ]
   },
