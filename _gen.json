@@ -105,6 +105,10 @@
     "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet",
     "versions": [
       {
+        "version": "2.11",
+        "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.11@main"
+      },
+      {
         "version": "2.2",
         "source": "https://github.com/jsonnet-libs/aws-load-balancer-controller-libsonnet/2.2@main"
       },
