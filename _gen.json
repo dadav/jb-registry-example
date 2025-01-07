@@ -1895,14 +1895,6 @@
     "source": "https://github.com/jsonnet-libs/k8s-libsonnet",
     "versions": [
       {
-        "version": "1.26",
-        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.26@main"
-      },
-      {
-        "version": "1.27",
-        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.27@main"
-      },
-      {
         "version": "1.28",
         "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.28@main"
       },
@@ -1913,6 +1905,14 @@
       {
         "version": "1.30",
         "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.30@main"
+      },
+      {
+        "version": "1.31",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.31@main"
+      },
+      {
+        "version": "1.32",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.32@main"
       }
     ]
   },
