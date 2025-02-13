@@ -28,32 +28,16 @@
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
     "versions": [
       {
-        "version": "2.10",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.10@main"
-      },
-      {
         "version": "2.11",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.11@main"
       },
       {
-        "version": "2.5",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.5@main"
+        "version": "2.12",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.12@main"
       },
       {
-        "version": "2.6",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.6@main"
-      },
-      {
-        "version": "2.7",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.7@main"
-      },
-      {
-        "version": "2.8",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.8@main"
-      },
-      {
-        "version": "2.9",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.9@main"
+        "version": "2.13",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.13@main"
       }
     ]
   },
@@ -195,12 +179,16 @@
     "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
     "versions": [
       {
-        "version": "1.23.5",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.23.5@main"
+        "version": "1.23.6",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.23.6@main"
       },
       {
-        "version": "1.24.1",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.24.1@main"
+        "version": "1.24.2",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.24.2@main"
+      },
+      {
+        "version": "1.25.0",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.25.0@main"
       }
     ]
   },
@@ -1825,6 +1813,10 @@
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.14@main"
       },
       {
+        "version": "5.15",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.15@main"
+      },
+      {
         "version": "5.4",
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.4@main"
       },
@@ -1944,6 +1936,10 @@
       {
         "version": "2.15",
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.15@main"
+      },
+      {
+        "version": "2.16",
+        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.16@main"
       }
     ]
   },
