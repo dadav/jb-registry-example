@@ -453,6 +453,10 @@
       {
         "version": "2.4.0",
         "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.4.0@main"
+      },
+      {
+        "version": "2.5.1",
+        "source": "https://github.com/jsonnet-libs/fluxcd-libsonnet/2.5.1@main"
       }
     ]
   },
