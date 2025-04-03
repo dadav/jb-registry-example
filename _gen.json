@@ -364,6 +364,10 @@
     "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet",
     "versions": [
       {
+        "version": "0.15",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.15@main"
+      },
+      {
         "version": "0.4",
         "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.4@main"
       },
@@ -2080,6 +2084,10 @@
       {
         "version": "1.3",
         "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.3@main"
+      },
+      {
+        "version": "1.4",
+        "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.4@main"
       }
     ]
   },
