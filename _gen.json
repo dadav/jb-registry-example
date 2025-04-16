@@ -2116,28 +2116,28 @@
     "source": "https://github.com/jsonnet-libs/strimzi-libsonnet",
     "versions": [
       {
-        "version": "0.36",
-        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.36@main"
-      },
-      {
-        "version": "0.37",
-        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.37@main"
-      },
-      {
-        "version": "0.38",
-        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.38@main"
-      },
-      {
-        "version": "0.39",
-        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.39@main"
-      },
-      {
         "version": "0.40",
         "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.40@main"
       },
       {
         "version": "0.41",
         "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.41@main"
+      },
+      {
+        "version": "0.42",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.42@main"
+      },
+      {
+        "version": "0.43",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.43@main"
+      },
+      {
+        "version": "0.44",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.44@main"
+      },
+      {
+        "version": "0.45",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.45@main"
       }
     ]
   },
