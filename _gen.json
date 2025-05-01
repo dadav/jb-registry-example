@@ -202,6 +202,10 @@
     "source": "https://github.com/jsonnet-libs/cnrm-libsonnet",
     "versions": [
       {
+        "version": "1.130",
+        "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.130@main"
+      },
+      {
         "version": "1.74",
         "source": "https://github.com/jsonnet-libs/cnrm-libsonnet/1.74@main"
       },
