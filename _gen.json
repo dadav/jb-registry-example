@@ -2039,30 +2039,6 @@
     "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet",
     "versions": [
       {
-        "version": "0.67",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.67@main"
-      },
-      {
-        "version": "0.68",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.68@main"
-      },
-      {
-        "version": "0.69",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.69@main"
-      },
-      {
-        "version": "0.70",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.70@main"
-      },
-      {
-        "version": "0.71",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.71@main"
-      },
-      {
-        "version": "0.72",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.72@main"
-      },
-      {
         "version": "0.73",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.73@main"
       },
@@ -2081,6 +2057,30 @@
       {
         "version": "0.77",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.77@main"
+      },
+      {
+        "version": "0.78",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.78@main"
+      },
+      {
+        "version": "0.79",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.79@main"
+      },
+      {
+        "version": "0.80",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.80@main"
+      },
+      {
+        "version": "0.81",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.81@main"
+      },
+      {
+        "version": "0.82",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.82@main"
+      },
+      {
+        "version": "0.83",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.83@main"
       }
     ]
   },
