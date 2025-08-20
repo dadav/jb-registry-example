@@ -1901,6 +1901,10 @@
       {
         "version": "1.32",
         "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.32@main"
+      },
+      {
+        "version": "1.33",
+        "source": "https://github.com/jsonnet-libs/k8s-libsonnet/1.33@main"
       }
     ]
   },
