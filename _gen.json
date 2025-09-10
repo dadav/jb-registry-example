@@ -183,12 +183,20 @@
     "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet",
     "versions": [
       {
-        "version": "1.25.2",
-        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.25.2@main"
+        "version": "1.25.3",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.25.3@main"
       },
       {
         "version": "1.26.0",
         "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.26.0@main"
+      },
+      {
+        "version": "1.26.1",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.26.1@main"
+      },
+      {
+        "version": "1.27.0",
+        "source": "https://github.com/jsonnet-libs/cloudnative-pg-libsonnet/1.27.0@main"
       }
     ]
   },
