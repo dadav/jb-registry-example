@@ -380,28 +380,20 @@
         "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.15@main"
       },
       {
-        "version": "0.4",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.4@main"
+        "version": "0.16",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.16@main"
       },
       {
-        "version": "0.5",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.5@main"
+        "version": "0.17",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.17@main"
       },
       {
-        "version": "0.6",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.6@main"
+        "version": "0.18",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.18@main"
       },
       {
-        "version": "0.7",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.7@main"
-      },
-      {
-        "version": "0.8",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.8@main"
-      },
-      {
-        "version": "0.9",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.9@main"
+        "version": "0.19",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.19@main"
       }
     ]
   },
@@ -1979,6 +1971,10 @@
       {
         "version": "0.15",
         "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.15@main"
+      },
+      {
+        "version": "0.16",
+        "source": "https://github.com/jsonnet-libs/kube-prometheus-libsonnet/0.16@main"
       },
       {
         "version": "0.8",
