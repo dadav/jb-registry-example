@@ -28,16 +28,16 @@
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
     "versions": [
       {
-        "version": "2.11",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.11@main"
-      },
-      {
         "version": "2.12",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.12@main"
       },
       {
         "version": "2.13",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.13@main"
+      },
+      {
+        "version": "2.14",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.14@main"
       }
     ]
   },
