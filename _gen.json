@@ -1874,6 +1874,10 @@
       {
         "version": "1.24",
         "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.24@main"
+      },
+      {
+        "version": "1.25",
+        "source": "https://github.com/jsonnet-libs/istio-libsonnet/1.25@main"
       }
     ]
   },
