@@ -2082,16 +2082,16 @@
     "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet",
     "versions": [
       {
-        "version": "1.2",
-        "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.2@main"
-      },
-      {
         "version": "1.3",
         "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.3@main"
       },
       {
         "version": "1.4",
         "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.4@main"
+      },
+      {
+        "version": "1.5",
+        "source": "https://github.com/jsonnet-libs/secrets-store-csi-driver-libsonnet/1.5@main"
       }
     ]
   },
