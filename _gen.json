@@ -1944,6 +1944,10 @@
       {
         "version": "2.16",
         "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.16@main"
+      },
+      {
+        "version": "2.17",
+        "source": "https://github.com/jsonnet-libs/keda-libsonnet/2.17@main"
       }
     ]
   },
