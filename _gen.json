@@ -2146,6 +2146,10 @@
       {
         "version": "0.45",
         "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.45@main"
+      },
+      {
+        "version": "0.48",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.48@main"
       }
     ]
   },
