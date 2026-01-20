@@ -28,16 +28,16 @@
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
     "versions": [
       {
-        "version": "2.12",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.12@main"
-      },
-      {
-        "version": "2.13",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.13@main"
-      },
-      {
         "version": "2.14",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.14@main"
+      },
+      {
+        "version": "3.0",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/3.0@main"
+      },
+      {
+        "version": "3.1",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/3.1@main"
       }
     ]
   },
@@ -124,56 +124,16 @@
     "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet",
     "versions": [
       {
-        "version": "1.10",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.10@main"
+        "version": "1.17",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.17@main"
       },
       {
-        "version": "1.11",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.11@main"
+        "version": "1.18",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.18@main"
       },
       {
-        "version": "1.12",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.12@main"
-      },
-      {
-        "version": "1.13",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.13@main"
-      },
-      {
-        "version": "1.14",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.14@main"
-      },
-      {
-        "version": "1.15",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.15@main"
-      },
-      {
-        "version": "1.3",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.3@main"
-      },
-      {
-        "version": "1.4",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.4@main"
-      },
-      {
-        "version": "1.5",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.5@main"
-      },
-      {
-        "version": "1.6",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.6@main"
-      },
-      {
-        "version": "1.7",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.7@main"
-      },
-      {
-        "version": "1.8",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.8@main"
-      },
-      {
-        "version": "1.9",
-        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.9@main"
+        "version": "1.19",
+        "source": "https://github.com/jsonnet-libs/cert-manager-libsonnet/1.19@main"
       }
     ]
   },
@@ -376,24 +336,16 @@
     "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet",
     "versions": [
       {
-        "version": "0.15",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.15@main"
-      },
-      {
-        "version": "0.16",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.16@main"
-      },
-      {
-        "version": "0.17",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.17@main"
-      },
-      {
-        "version": "0.18",
-        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.18@main"
-      },
-      {
         "version": "0.19",
         "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/0.19@main"
+      },
+      {
+        "version": "1.0",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/1.0@main"
+      },
+      {
+        "version": "1.1",
+        "source": "https://github.com/jsonnet-libs/external-secrets-libsonnet/1.1@main"
       }
     ]
   },
@@ -2039,18 +1991,6 @@
     "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet",
     "versions": [
       {
-        "version": "0.73",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.73@main"
-      },
-      {
-        "version": "0.74",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.74@main"
-      },
-      {
-        "version": "0.75",
-        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.75@main"
-      },
-      {
         "version": "0.76",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.76@main"
       },
@@ -2081,6 +2021,18 @@
       {
         "version": "0.83",
         "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.83@main"
+      },
+      {
+        "version": "0.84",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.84@main"
+      },
+      {
+        "version": "0.85",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.85@main"
+      },
+      {
+        "version": "0.86",
+        "source": "https://github.com/jsonnet-libs/prometheus-operator-libsonnet/0.86@main"
       }
     ]
   },
