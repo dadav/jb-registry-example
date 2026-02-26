@@ -1677,56 +1677,8 @@
     "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet",
     "versions": [
       {
-        "version": "4.1",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.1@main"
-      },
-      {
         "version": "4.10",
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.10@main"
-      },
-      {
-        "version": "4.2",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.2@main"
-      },
-      {
-        "version": "4.3",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.3@main"
-      },
-      {
-        "version": "4.4",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.4@main"
-      },
-      {
-        "version": "4.5",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.5@main"
-      },
-      {
-        "version": "4.6",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.6@main"
-      },
-      {
-        "version": "4.7",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.7@main"
-      },
-      {
-        "version": "4.8",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.8@main"
-      },
-      {
-        "version": "4.9",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/4.9@main"
-      },
-      {
-        "version": "5.0",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.0@main"
-      },
-      {
-        "version": "5.10",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.10@main"
-      },
-      {
-        "version": "5.11",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.11@main"
       },
       {
         "version": "5.12",
@@ -1745,28 +1697,32 @@
         "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.15@main"
       },
       {
-        "version": "5.4",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.4@main"
+        "version": "5.16",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.16@main"
       },
       {
-        "version": "5.5",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.5@main"
+        "version": "5.17",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.17@main"
       },
       {
-        "version": "5.6",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.6@main"
+        "version": "5.18",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.18@main"
       },
       {
-        "version": "5.7",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.7@main"
+        "version": "5.19",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.19@main"
       },
       {
-        "version": "5.8",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.8@main"
+        "version": "5.20",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.20@main"
       },
       {
-        "version": "5.9",
-        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.9@main"
+        "version": "5.21",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.21@main"
+      },
+      {
+        "version": "5.22",
+        "source": "https://github.com/jsonnet-libs/grafana-operator-libsonnet/5.22@main"
       }
     ]
   },
