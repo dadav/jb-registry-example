@@ -28,16 +28,16 @@
     "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet",
     "versions": [
       {
-        "version": "2.14",
-        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/2.14@main"
-      },
-      {
         "version": "3.0",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/3.0@main"
       },
       {
         "version": "3.1",
         "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/3.1@main"
+      },
+      {
+        "version": "3.2",
+        "source": "https://github.com/jsonnet-libs/argo-cd-libsonnet/3.2@main"
       }
     ]
   },
@@ -46,10 +46,6 @@
     "description": "argo-rollouts jsonnet library",
     "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet",
     "versions": [
-      {
-        "version": "1.6",
-        "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet/1.6@main"
-      },
       {
         "version": "1.7",
         "source": "https://github.com/jsonnet-libs/argo-rollouts-libsonnet/1.7@main"
@@ -66,24 +62,16 @@
     "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet",
     "versions": [
       {
-        "version": "3.2",
-        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.2@main"
-      },
-      {
-        "version": "3.3",
-        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.3@main"
-      },
-      {
-        "version": "3.4",
-        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.4@main"
-      },
-      {
         "version": "3.5",
         "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.5@main"
       },
       {
         "version": "3.6",
         "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.6@main"
+      },
+      {
+        "version": "3.7",
+        "source": "https://github.com/jsonnet-libs/argo-workflows-libsonnet/3.7@main"
       }
     ]
   },
