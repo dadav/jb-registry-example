@@ -1972,16 +1972,16 @@
     "source": "https://github.com/jsonnet-libs/strimzi-libsonnet",
     "versions": [
       {
-        "version": "0.49.1",
-        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.49.1@main"
-      },
-      {
         "version": "0.50.1",
         "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.50.1@main"
       },
       {
         "version": "0.51.0",
         "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/0.51.0@main"
+      },
+      {
+        "version": "1.0.0",
+        "source": "https://github.com/jsonnet-libs/strimzi-libsonnet/1.0.0@main"
       }
     ]
   },
